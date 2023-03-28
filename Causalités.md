@@ -139,4 +139,4 @@ Vision mathématique
 [empirisme]: https://fr.wikipedia.org/wiki/Empirisme "Empirisme"
 [machiavélisme]: https://fr.wikipedia.org/wiki/Machiav%C3%A9lisme "Machiavélisme"
 [affects]: https://fr.wikipedia.org/wiki/Affect "Affect"
-[ethique]: .../res/Ethique_(Baruch_Spinoza).epub
+[ethique]: res/Ethique_(Baruch_Spinoza).pdf
