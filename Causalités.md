@@ -23,11 +23,11 @@ Déterminisme[^2]
     * [causalisme][causalisme] indubitable ?
 * fatalisme évitable ?
 
-Libre arbitre[^2]
+Libre arbitre[^3]
 * Sartre / [Spinoza][ethique]
 * *L'être ou le néant*
 
-Amor fati[^3]
+Amor fati[^4]
 
 ## Cause motrice : 
 ### Eudémonisme
@@ -40,7 +40,7 @@ Opposé au vide
 * aponie et ataraxie
 * lui même opposé à *se sentir en vie*
 
-Tetrapharmakos de Epicure[^4]
+Tetrapharmakos de Epicure[^5]
 * Ne craignez pas les dieux
 * Ne vous inquiétez pas de la mort
 * Le bonheur est facile à obtenir 
@@ -120,9 +120,10 @@ Vision mathématique
 
 ## Ressources :
 [^1]: https://archipel.uqam.ca/7064/1/M13640.pdf
-[^2]: 
-[^3]: https://fr.wikipedia.org/wiki/Amor_fati
-[^4]: https://fr.wikipedia.org/wiki/T%C3%A9tapharmakon
+[^2]: https://fr.wikipedia.org/wiki/Déterminisme
+[^3]: https://fr.wikipedia.org/wiki/Libre_arbitre
+[^4]: https://fr.wikipedia.org/wiki/Amor_fati
+[^5]: https://fr.wikipedia.org/wiki/T%C3%A9tapharmakon
 
 
 [sartre]: https://www.youtube.com/watch?v=BjL5GWZN5eA
@@ -138,4 +139,4 @@ Vision mathématique
 [empirisme]: https://fr.wikipedia.org/wiki/Empirisme "Empirisme"
 [machiavélisme]: https://fr.wikipedia.org/wiki/Machiav%C3%A9lisme "Machiavélisme"
 [affects]: https://fr.wikipedia.org/wiki/Affect "Affect"
-[ethique]: (.../Philo/res/Ethique_(Baruch_Spinoza).epub)
+[ethique]: .../res/Ethique_(Baruch_Spinoza).epub
