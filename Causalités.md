@@ -24,7 +24,7 @@ Déterminisme[^2]
 * fatalisme évitable ?
 
 Libre arbitre[^2]
-* Sartre / Spinoza
+* Sartre / [Spinoza][ethique]
 * *L'être ou le néant*
 
 Amor fati[^3]
@@ -118,10 +118,9 @@ Vision mathématique
 * Biologique ?
 
 
-
-
+## Ressources :
 [^1]: https://archipel.uqam.ca/7064/1/M13640.pdf
-[^2]: https://fr.wikipedia.org/wiki/Éthique_(Spinoza)
+[^2]: 
 [^3]: https://fr.wikipedia.org/wiki/Amor_fati
 [^4]: https://fr.wikipedia.org/wiki/T%C3%A9tapharmakon
 
@@ -139,3 +138,4 @@ Vision mathématique
 [empirisme]: https://fr.wikipedia.org/wiki/Empirisme "Empirisme"
 [machiavélisme]: https://fr.wikipedia.org/wiki/Machiav%C3%A9lisme "Machiavélisme"
 [affects]: https://fr.wikipedia.org/wiki/Affect "Affect"
+[ethique]: (.../Philo/res/Ethique_(Baruch_Spinoza).epub)
