@@ -23,8 +23,9 @@ Déterminisme[^2]
     * [causalisme][causalisme] indubitable ?
 * fatalisme évitable ?
 
-Libre arbitre
+Libre arbitre[^2]
 * Sartre / Spinoza
+* *L'être ou le néant*
 
 Amor fati[^3]
 
@@ -37,7 +38,7 @@ Nature inéluctable de nos actions ?
 Opposé au vide
 * ennuie en son sens le plus fort
 * aponie et ataraxie
-* lui même opposé à « se sentir en vie »
+* lui même opposé à *se sentir en vie*
 
 Tetrapharmakos de Epicure[^4]
 * Ne craignez pas les dieux
@@ -45,7 +46,7 @@ Tetrapharmakos de Epicure[^4]
 * Le bonheur est facile à obtenir 
 * La souffrance est facile à supporter
 
-Vision mathématique :
+Vision mathématique 
 * [Affects][affects] : 
     * substance de la visualisation
     * en tant qu’unité temporelle
@@ -98,6 +99,7 @@ Vision mathématique :
     * avoir le plus d’affects
         * [conatus][conatus] et [hédonisme][hédonisme] masochistes 
     * passion ⊂ raison,
+        * à ne pas opposer
         * passion : plus haute importance rationnelle
     * nécessaire ? 
 
