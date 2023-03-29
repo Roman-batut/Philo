@@ -18,6 +18,7 @@ Moi essentiel à travers la mémoire[^1]
 
 Déterminisme[^2]
 * univers déterminé
+* [*Deus sive Natura*][Deus sive natura]
 * auto-causalité de l’évènement
     * cause-première 
     * [causalisme][causalisme] indubitable ?
@@ -38,13 +39,14 @@ Nature inéluctable de nos actions ?
 Opposé au vide
 * ennuie en son sens le plus fort
 * aponie et ataraxie
+  * Plus simples ?
 * lui même opposé à *se sentir en vie*
 
 Tetrapharmakos de Epicure[^5]
-* Ne craignez pas les dieux
-* Ne vous inquiétez pas de la mort
-* Le bonheur est facile à obtenir 
-* La souffrance est facile à supporter
+>Ne craignez pas les dieux\
+>Ne vous inquiétez pas de la mort\
+>Le bonheur est facile à obtenir  
+>La souffrance est facile à supporter
 
 Vision mathématique 
 * [Affects][affects] : 
@@ -140,3 +142,4 @@ Vision mathématique
 [machiavélisme]: https://fr.wikipedia.org/wiki/Machiav%C3%A9lisme "Machiavélisme"
 [affects]: https://fr.wikipedia.org/wiki/Affect "Affect"
 [ethique]: res/Ethique_(Baruch_Spinoza).pdf
+[Deus sive natura]: https://fr.wikipedia.org/wiki/Deus_sive_natura "Deus sive natura"
