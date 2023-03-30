@@ -29,6 +29,8 @@ Libre arbitre[^3]
 * *L'être ou le néant*
 
 Amor fati[^4]
+* fatalisme 
+* 
 
 ## Cause motrice : 
 ### Eudémonisme
@@ -73,6 +75,7 @@ Vision mathématique
         * inconscient accessible 
     * impossibilité de sa complétude/perfection
     * opposé à la [mauvaise foie][foie] [sartrienne][sartre] ?
+    * préférablement évitable ? Souffrance dans l'ignorance ?
 
 * Amoralité
     * purement interne
