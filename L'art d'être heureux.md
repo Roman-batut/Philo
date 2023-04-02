@@ -16,13 +16,16 @@ Caractère en tant qu’identité substancielle /!\\
 Opposition bien-être et souffrance : si être ⇒ souffrance, comment bien-être peut opposer ce qui le compose ? (prenant le point de vue schopenhauerien)
 
 ---
+### Fatalisme : 
+Champs des possibles imaginé (à tort) plus grand que celui de la réalité : mène à la souffrance \
+Possible : ce qui peut arriver, nécessité \
+Ce qui peut arriver arrive à coup sur sinon  ce ne pouvait arriver
+
+---
 ### Suicide : 
 Pensée et réflexion différente chez chacun (tentative d’appropriation de l’autre est vaine, généralisation difficile)\
  unique soulagement naturel pour la malade, souffrance trop importantes
  * Suicide pesant sur tout homme mais avec une intensité différente, certains y sont plus réceptifs selon leur caractère, puis le degré de souffrance diffère.
-
-Face subjective intérieure (bien-être, joie, souffrance...)\
-**Face objective intérieure** (vertu, actions positives et négatives, etc...)
 
 ---
 
@@ -51,6 +54,9 @@ Existence heureuse : *Démenti par Shopenhauer*
 
 Attache à cette vie auto-causée par sa nature.
 
+Face subjective intérieure (bien-être, joie, souffrance...)\
+**Face objective intérieure** (vertu, actions positives et négatives, etc...) plus importante
+
 ---
 ### Malheur : ennui et douleur
 * Le génie est [mélancolique](https://fr.wikipedia.org/wiki/Mélancolie)
@@ -64,11 +70,6 @@ Attache à cette vie auto-causée par sa nature.
 Etat d'esprit, la conscience rendant la réalité immédiate. Théorie des [humeurs](https://www.narthex.fr/blogs/ecrits-mystiques/theorie-des-humeurs.png/image) \
 Contrôle sur ca ? Expression d'un libre arbitre ? Si oui le bonheur est atteignable ?
 
----
-### Fatalisme : 
-Champs des possibles imaginé (à tort) plus grand que celui de la réalité : mène à la souffrance \
-Possible : ce qui peut arriver, nécessité \
-Ce qui peut arriver arrive à coup sur sinon  ce ne pouvait arriver
 
 ---
 
