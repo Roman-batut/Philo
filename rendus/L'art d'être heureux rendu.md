@@ -1,4 +1,4 @@
-<style>
+<style> 
 div {
   max-width: 900px;
   min-width: 100px;
