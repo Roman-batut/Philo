@@ -4,6 +4,7 @@ div {
   min-width: 100px;
     margin: 0 auto;
     background-color: #1e1e1e;
+    color: #d4d4d4;
 }
 </style>
 
@@ -33,22 +34,22 @@ Celle-ci est considérée par l'auteur comme une succession d'événements et de
 
 <img src="res/Determinisme.jpeg" width=240 height=160 style="float: right; margin: 1em 0 1em 1em;" />
 
-Cependant, l'auteur suggère l'existence d'un [libre arbitre][libre_arbitre], dans la mesure où nous avons le choix de nous auto-contraindre, c'est-à-dire de restreindre nos possibilités d'[actions][action] à une portée réaliste. Il compare sa pensée à un cercle représentant notre vie et nos possibilités, et où le libre arbitre serait la possibilité de choisir un rayon - d'[action][action] inférieur au cercle précédent. 
+Cependant, l'auteur suggère l'existence d'un [libre arbitre][libre_arbitre], dans la mesure où nous avons le choix de nous auto-contraindre, c'est-à-dire de restreindre nos possibilités d'[actions][action] à une portée réaliste. Il compare sa pensée à un cercle représentant notre vie et nos possibilités, et où le libre arbitre serait la possibilité de choisir un rayon - d'[action][action], inférieur au cercle précédent. 
 
-Il préconise toutefois d'accepter une certaine forme de [fatalisme][fatalisme], qui est la [croyance][croyance] que chaque événement est nécessaire et que nous n'avons aucun contrôle sur notre [destin][destin]. L'auteur exprime que son déni mène à la [souffrance][souffrance], car nous imaginons toujours un champ des possibles plus grand que celui de la [réalité][réalité] et nous nous en retrouvons déçus une fois qu'on a atteint cette réalisation. Selon lui, tout ce qui peut arriver est nécessaire, et ce qui arrive est inévitable ; le potentiel réalistique imaginé des événements qui n'arrivent jamais tend donc à nous rendre malheureux. 
+Il préconise toutefois d'accepter une certaine forme de [fatalisme][fatalisme], qui est la [croyance][croyance] que chaque événement est nécessaire et que nous n'avons aucun contrôle sur notre [destin][destin], au rique que son déni ne mène à la [souffrance][souffrance] en imaginant un champ des possibles toujours plus grand que celui de la [réalité][réalité], et ainsi nous décevant une fois atteint cette réalisation. Selon lui, tout ce qui peut arriver est nécessaire, et ce qui arrive est inévitable ; le potentiel réalistique imaginé des événements qui n'arrivent jamais tend donc à nous rendre malheureux. 
 
 &nbsp;
 
 Ces [décisions][action], ainsi que toutes celles que nous prenons sont cependant également sujettes à des influences ; externe - les événements de la vie ; et interne notamment à travers notre caractère et notre [humeur][humeur]. 
 
-Cette notion de caractère est abordée par [Schopenhauer][schopenhauer] en tant qu'[essence][essence] de l'individu, sa [nature][nature] profonde et immuable. Selon lui, notre caractère est [déterminé][determinisme] dès la naissance, et nous ne pouvons pas le changer ou le modifier de manière significative au cours de notre vie. \
+Cette notion de caractère, centrale à la pensée [shopenhauerienne][schopenhauer], est abordée par l'auteur en tant qu'[essence][essence] de l'individu, sa [nature][nature] profonde et immuable. Selon lui, notre caractère est [déterminé][determinisme] dès la naissance, et nous ne pouvons pas le changer ou le modifier de manière significative au cours de notre vie. \
 Il considère que l'homme est fondamentalement un être de [volonté][volonté], et que cette volonté est la force motrice derrière toutes nos [actions][action] et nos décisions. Ainsi, notre caractère est la manifestation de cette volonté, et il détermine la façon dont nous réagissons aux événements de notre vie. 
 
 <img src="res/Humeurs.webp" width=160 height=220 style="float: left; margin: 1em 1em 0 0;" />
 
-Quant à l'[humeur][humeur], il serait un état mental, oscillant entre [bien-être][bien-être] et [souffrance][souffrance], et qui influencerait notre perception du monde et notre manière de vivre. Schopenhauer considère que notre humeur est [déterminée][determinisme] par des facteurs internes tels que notre constitution physique, notre caractère, notre [santé][santé] mentale ou physique, ainsi que par des facteurs externes tels que les événements de la vie, les interactions sociales ou l'environnement. Il pense ainsi que l'humeur peut avoir une influence considérable sur notre vie et notre [bonheur][bonheur], et qu'il est important de chercher à la maîtriser. 
+Quant à l'[humeur][humeur], il serait un état mental, oscillant entre [bien-être][bien-être] et [souffrance][souffrance], et qui influencerait notre perception du monde et notre manière de vivre. Schopenhauer considère que notre humeur est [déterminée][determinisme] par des facteurs internes tels que notre constitution physique, notre caractère, notre [santé][santé] mentale ou physique, ainsi que par des facteurs externes tels que les événements de la vie, les interactions sociales ou l'environnement. Il pense cependant qu'il est possible d'atteindre une certaine maîtrise de son humeur et qu'il est important de la chercher car elle peut avoir une influence considérable sur notre vie et notre [bonheur][bonheur]. 
 
-Enfin, Schopenhauer dénote l'importance de ces deux notions dans son approche [eudémonique][eudémonie]. Notre caractère et notre humeur seraient à la fois la source de notre bonheur et de notre souffrance. Ainsi, si ceux-ci sont en harmonie avec les circonstances de notre vie, la souffrance est moindre et le bonheur devient facile, mais si, au contraire, notre caractère et notre humeur rentrent en conflit avec les événements de notre vie, celle-ci devient difficile et la souffrance pèse sur elle. 
+Enfin, Schopenhauer dénote l'importance de ces deux notions dans son approche [eudémonique][eudémonie]. Notre caractère et notre humeur seraient à la fois la source de notre bonheur et de notre souffrance. Ainsi, si ceux-ci sont en harmonie avec les circonstances de notre vie, la souffrance est moindre et le bonheur devient facile, mais si, au contraire, notre caractère et notre humeur rentrent en conflit avec les événements de notre vie, celle-ci devient difficile et la souffrance la pèse. 
 
 &nbsp;
 
@@ -166,9 +167,10 @@ L'auteur met l'accent sur l'importance de la première des trois catégories, la
 > Le bonheur suprême c'est la personalité. \
 *Goethe*
 
-<img src="res/Heureux.jpeg" width=200 height=300 style="float: right; margin: 0 0 1em 1em;" />
+<img src="res/Personnalité.jpeg" width=300 height=200 style="float: right; margin: 0 1em 1em 1em;" />
 
-Pour Schopenhauer, ce qui importe avant tout pour atteindre le [bonheur][bonheur], c'est ce que l'on est pour soi-même. Cela signifie que ce qui est intérieur et immuable, soit ce qui est lié à notre [personnalité][personnalité], à notre caractère moral et à nos valeurs, est plus important que ce qui est extérieur et changeant, soit ce que les autres pensent de nous. \
+Pour Schopenhauer, ce qui importe avant tout pour atteindre le [bonheur][bonheur], c'est ce que l'on est pour soi-même. Cela signifie que ce qui est intérieur et immuable, soit ce qui est lié à notre [personnalité][personnalité], à notre caractère moral et à nos valeurs, est plus important que ce qui est extérieur et changeant, soit ce que les autres pensent de nous. 
+
 Ainsi, si l'on accorde trop d'importance à ce que les autres pensent de nous, cela peut nous conduire à la vanité, à l'orgueil et au [désir][desir] de plaire aux autres plutôt qu'à être fidèle à soi-même. En revanche, si l'on se concentre sur ce qui est immuable en soi-même, on peut acquérir une certaine [sérénité][sérénité] et une indépendance vis-à-vis de l'opinion des autres.
 
 > Ce qu'on représente, c'est à dire l'opinion d'autres paraît inessentiel à notre bonheur. \
