@@ -6,6 +6,10 @@ div {
     background-color: #1e1e1e;
     color: #d4d4d4;
 }
+body {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+}
 </style>
 
 &nbsp;
@@ -47,7 +51,7 @@ Il considère que l'homme est fondamentalement un être de [volonté][volonté],
 
 <img src="res/Humeurs.webp" width=160 height=220 style="float: left; margin: 1em 1em 0 0;" />
 
-Quant à l'[humeur][humeur], il serait un état mental, oscillant entre [bien-être][bien-être] et [souffrance][souffrance], et qui influencerait notre perception du monde et notre manière de vivre. Schopenhauer considère que notre humeur est [déterminée][determinisme] par des facteurs internes tels que notre constitution physique, notre caractère, notre [santé][santé] mentale ou physique, ainsi que par des facteurs externes tels que les événements de la vie, les interactions sociales ou l'environnement. Il pense cependant qu'il est possible d'atteindre une certaine maîtrise de son humeur et qu'il est important de la chercher car elle peut avoir une influence considérable sur notre vie et notre [bonheur][bonheur]. 
+Quant à l'[humeur][humeur], elle serait un état mental, oscillant entre [bien-être][bien-être] et [souffrance][souffrance], et qui influencerait notre perception du monde et notre manière de vivre. Schopenhauer considère que notre humeur est [déterminée][determinisme] par des facteurs internes tels que notre constitution physique, notre caractère, notre [santé][santé] mentale ou physique, ainsi que par des facteurs externes tels que les événements de la vie, les interactions sociales ou l'environnement. Schopenhauer pense cependant qu'il est possible d'atteindre une certaine maîtrise de son humeur et qu'il est important de la chercher car elle peut avoir une influence considérable sur notre vie et notre [bonheur][bonheur]. 
 
 Enfin, Schopenhauer dénote l'importance de ces deux notions dans son approche [eudémonique][eudémonie]. Notre caractère et notre humeur seraient à la fois la source de notre bonheur et de notre souffrance. Ainsi, si ceux-ci sont en harmonie avec les circonstances de notre vie, la souffrance est moindre et le bonheur devient facile, mais si, au contraire, notre caractère et notre humeur rentrent en conflit avec les événements de notre vie, celle-ci devient difficile et la souffrance la pèse. 
 
@@ -63,7 +67,7 @@ Enfin, Schopenhauer dénote l'importance de ces deux notions dans son approche [
 &nbsp;\
 La notion de [bonheur][bonheur] chez [Schopenhauer][schopenhauer] est en effet très particulière, il ne voit pas le bonheur comme une chose positive en soi, mais plutôt comme l'idée de la [souffrance][souffrance] moindre. Il donne ainsi plusieurs conseils afin d'atteindre ce bonheur. 
 
-Parmis ceux-ci, mettre tous ses efforts dans l'éloignement des [souffrances][souffrance], ne jamais envisager de [plaisirs][plaisir] au risque de souffrir, et toujours prévenir et envisager le pire afin d'être prêt à le subir ; constituent les principes de base de sa [philosophie][philosophie].
+Parmi ceux-ci, mettre tous ses efforts dans l'éloignement des [souffrances][souffrance], ne jamais envisager de [plaisirs][plaisir] au risque de souffrir, et toujours prévenir et envisager le pire afin d'être prêt à le subir ; constituent les principes de base de sa [philosophie][philosophie].
 
 >Tout bonheur positif est chimère, tandis que la souffrance est réelle. \
 *Schopenhauer*
@@ -181,6 +185,15 @@ Il donne alors plus d'importance à la face objective intérieure - [vertu][vert
 &nbsp;
 
 ---
+
+&nbsp;
+
+<div style="text-align: right"> <em><a href="https://github.com/Roman-batut">Roman Batut</a><em>
+
+&nbsp;
+
+&nbsp;
+
 </div>
 
 [livre]: res/Lart_dêtre_heureux_(Arthur_Schopenhauer).pdf
