@@ -6,7 +6,7 @@
 		* étudiés traditionnellement : entendement, raison, 
 			* mémoire, sens, passions, volonté
 * Nature / Culture
-* Scepticisme /. Danger de l’empirisme 
+* Scepticisme / Danger de l’empirisme 
 * Nihilisme / Nietzsche 
 * Perfection 
 * Empirisme / rationalisme
