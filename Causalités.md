@@ -1,5 +1,7 @@
 # Causalités aristotélitiennes :
 
+Ce dont je suis fait ; Ce que je suis ; Ce que je fais ; Ce que je deviens
+
 ## Cause matérielle : 
 ### de Dieu / Nature 
 ---
@@ -15,6 +17,25 @@ Moi essentiel à travers la mémoire[^1]
 * Identité humienne
     * « je » n’est pas la même personne à travers le temps
     * identité externe transcendante à la notre
+  
+* Subjectivité / Objectivité :
+    * Subjectivité : 
+        * Toutes les perceptions et souvenirs de ces perceptions (purement personnel)
+    * Objectivité : Objectivité subjective / Objectivité objective
+        * Objectivité subjective : 
+            * Définition courante car atteignable par l’entendement
+            * Intersection des subjectivités (existe à plusieurs niveaux)
+        * Objectivité objective : 
+            * Difficile (impossible en partie ?) à atteindre par l’entendement
+            * Ensemble univers contenant tous les autres
+            * 
+
+* Identité :
+    * Identité personnelle (naturelle) : 
+        * Ce que je suis pour moi-même 
+        * Ce que je pense être pour les autres
+    * Identité sociale (culturelle) :
+        * Ce que je suis pour les autres
 
 Déterminisme[^2]
 * univers déterminé

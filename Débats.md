@@ -1,0 +1,41 @@
+# Dans quel but devrions nous agir?
+
+J’ai pas mal réfléchi hier et aujourd’hui et je pense être capable d’expliquer ce que je pense.
+
+---
+
+D’abord la question est dirigée, elle fait l’assomption que nous avons un libre arbitre sur nos décisions. Ça ne me dérange pas, je ne pense pas que la réponse aurait été bien différente en assumant un certain déterminisme.  
+Je suis intimement convaincu que le but profond de nos actions est, ou devrait être, le bonheur. Je pense d’ailleurs que le problème fondamental de notre débat est ici.
+
+Vu que je pense avoir une explication assez personnelle du bonheur je vais m’expliquer. Par bonheur j’entend le contraire de l’ennui, en d’autres mots, et par une formule qui me tient à coeur, « se sentir en vie ». Alors effectivement ça implique un grand nombre de choses qui peuvent sembler contradictoires, on peut être heureux dans la tristesse, il est possible d’être malheureux dans la joie etc.. Je trouve cependant que cela rejoint un certain entendement global sur le concept, dans le sens où chacun peut voir le bonheur ou le malheur comme des concepts plus forts et durable dans le temps que les émotions citées.
+
+Je vais tenter d ‘expliquer ma pensée de façon assez visuelle, peut être imaginer un graphe (intensité des affects / temps) est utile.
+
+Par « affect », j’entend l’ensemble des émotions, sensations, sentiments etc… dont il est possible d’extraire l’intensité ressenti. Par exemple on pourrait dire que les affects ressentis lors de notre premier baiser ont étés plus intenses que ceux lorsqu’on passe l’aspirateur, et que ceux ressenti lorsqu’un proche nous as trahi ont étés plus intense que ceux du premier baiser etc… 
+
+Ainsi, le malheur serait symbolisé par une intensité des affects ne variant pas ou peu à travers le temps, tandis que le bonheur serait le changement d’intensité de ces affects, donc son opposé. L’entendement veut qu’il faille avoir des hauts et des bas pour être heureux (il n’y a pas de joie sans peine), ce qui se retranscrit plutôt bien dans ma pensée puisqu’un bonheur puissant émanerait d’un passage de tristesse intense à joie intense. 
+
+Un élément absolument essentiel de ce système est le repère (intensité, temps), celui-ci est muable, élargi et rétréci à travers les expériences. Ainsi les intensités des affects sont relatifs les uns aux autres, tout simplement qu’on va juger de l’intensité d’un affect par rapport à ceux ressentis par le passé, l’intensité maximale ressenti n’est pas fixe au cour de sa vie. 
+Aussi les intensités passés changent au cour du temps, on ne se souvient pas parfaitement de l’affect ressenti, l’affect amoureux du premier amour par exemple : au moment où cela ce passe cet affect est intense et puis après une rupture, au fil du temps l’intensité se désagrège et on peut sen sentir étranger à l’affect passé. 
+Le repère est donc changeant et relatif. En visualisant le graphe (intensité des affects / temps) : si on évalue toute notre vie, seuls les éléments les plus intenses ressortiront à travers une courbe assez uniforme, dans le sens où seuls les pics les plus hauts seront vus, et au contraire si on s’intéresse à un moment plus précis, par exemple la première année d’école supérieure, chaque changement d’intensité est plus visible. 
+Le côté important de ça c’est lorsque tu évalue un moment où tu es passé d’intensité fortes à quelque chose de moins fort, prenons comme exemple la rentrée scolaire après avoir passé un été de fou où tu as vécu énormément de choses très intenses, tu reprend une certaine routine des cours tu vois tes amis etc. Maintenant si tu essaye d’évaluer ton bonheur à ce moment là en prenant dans ton repère ton été passé, les changements d’intensité présent auront l’air bien plus faible et tu pourrais te penser malheureux car ce que tu ressens est, relativement à tout ton repère, très faible. 
+Un autre exemple qui rejoint l’entendement est celui de la rupture amoureuse, à mon avis le moment le plus difficile de celle-ci n’est pas la rupture en elle-même qui peut être source de bonheur dans mon sens mais plutôt la période qui vient rapidement après la tristesse intense ( si elle intervient ), lorsqu’on constate que les affects ressentis sont infiniment moins intenses que ceux ressentis quelques semaines auparavant. On peut alors se sentir « vide », et tomber dans l’ennui.
+
+J’ai probablement très mal expliqué certains points, alors dis moi si il y a des trucs où j’ai mal expliqué. 
+
+Donc pour résumer rapidement, agir pour son bonheur serait agir en maximisant les changement d’intensité des affects. 
+
+Personnellement j’essaye de maximiser l’intensité des affects à ma portée parce que j’ai pour habitude de ne pas ressentir intensément les affects, je suis relativement calme, je ne me mets pas en colère etc… Ce qui n’est pas le cas de tout le monde évidemment, pour quelqu’un de différent sur cet aspect ( je suis sur que tu peux reconnaitre des gens que tu as rencontré dans ta vie ), agir en minimisant les affects à sa portée pourrait être le bonheur ( aponie et ataraxie par exemple ). Puisque que de base ces personnes ressentiront les affects intensément, les moments emplis de bonheur seraient ceux ressentis calme, donc d’un changement d’intensité.
+
+
+Voilà je pense avoir expliqué mon point de vue sur le quel but nous devrions viser maintenant je veux expliquer comment il faudrait l’atteindre, soit par quelles actions.
+
+
+Ce que je trouve primordial en premier lieu c’est de se rendre compte de la nature uniquement subjective de notre être. La seule chose à laquelle nous avons accès sans contrainte physique c’est nous même. En d’autres mots, notre conscience n’a accès qu’à elle même, dans le sens où même en prenant conscience des autres on le fait à travers nos perceptions, affects etc… 
+
+Donc lorsqu’on veut maximiser son bonheur, selon le modèle que l’on veut suivre par rapport à notre tempérament naturel, on va vouloir juger de quelle décision, quelle action va engendrer ce que l’on veut atteindre. Le bonheur est une notion tellement personnelle, et en tant que but de nos actions il en va de soi que celles-ci se doivent d’être personnelle, centrées sur nous mêmes, égoïstes dans un sens. 
+Il est évidemment possible d’agir dans le sens des autres dans un but eudémonique, mon point étant que lorsqu’on aide quelqu’un par exemple, on fait rentrer dans notre subjectivité tous les éléments attachés à l’action. En tant qu’être subjectifs on n’agis seulement dans notre intérêt, qui peut évidemment également être l’intérêt des autres. Se sacrifier au profit des autres est également envisageable sans problèmes, tant que les conséquences du sacrifice sont évaluées et nous permettent d’être heureux. Il est inconcevable d’après moi de faire une action ne nous apportant rien, le simple fait d’agir implique notre subjectivité et donc le fait que cela nous apporte quelque chose. 
+
+Le problème majeur, et pour revenir à la souffrance éternelle au profit des autres que l’on avait soulevé. Je ne peux pas être moins d’accord avec cette décision. Alors appliquons ce que j’ai dis jusque la, souffrir n’implique pas forcément le malheur comme j’ai essayé de l’expliquer, il peut même être source de bonheur. Cependant ressentir cette souffrance de façon éternelle est la définition même du malheur que j’avais soulevé plus haut, notant ici que remplacer souffrance par jouissance ne change rien à l’argument. Agir dans cette direction provoquerait donc le malheur. Il faut évidemment parler de la joie, de la félicité, de la fierté etc que l’on va ressentir à travers le sacrifice que l’on a fait, prendre ces éléments en considération lors du jugement de l’action serait cependant une faute grave. En effet ces affects sont passagers, éphémères, et à travers le temps vont se dissiper et finalement disparaitre jusqu’à ce que le souvenir même d’avoir ressenti ces affects disparaisse à son tour. Je pense que si on y réfléchis bien, l’éternité c’est quand même assez long et ça ne me choquerai pas qu’au bout de quelques dizaines de milliers d’années de souffrance, ou plus, on oublie même qui était notre famille et les affects qu’ils nous provoquaient, ne donnant plus aucun sens à notre décision antérieure.
+
+Aussi je me rends compte que ça aurait été infiniment plus simple à expliquer en personne et surtout plus rapide.
