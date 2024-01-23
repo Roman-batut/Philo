@@ -138,7 +138,7 @@ Vision mathématique
 * Morale et éthique
 
 ## Cause finale :
-### Ø, nihilisme
+### Ø, nihilisme, absurdisme
 ---
 
 * Biologique ?
